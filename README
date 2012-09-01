@@ -1,3 +1,9 @@
 This little shell script opens and close the CD-ROM drive, and with simple piece of string it can drive a baby-rocker.
 
+1. Tie a piece of string from the CD-ROM to the babyrocker
+2. Adjust tension in string
+3. Put your baby in the rocker
+4. Run the shell-script
+   ./baby_rocker.sh
+   (You might have to do chmod 755 baby_rocker.sh to run it)
 Idea, code and everything it taken from http://www.youtube.com/watch?v=bYcF_xX2DE8
